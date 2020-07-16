@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "cors-anywhere": "^0.4.3"
+  },
+  "scripts": {
+    "serve": "node index.js"
   }
 }
